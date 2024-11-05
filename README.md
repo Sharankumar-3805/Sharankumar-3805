@@ -1,4 +1,3 @@
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sharankumar-3805/Sharankumar-3805&title=Visitors%20Count&color=blue&style=flat-square
 <h1 align="center"><code>Hi 👋, I'm Sharankumar Patil</code></h1>
 <h3 align="center"><code>A Passionate Software Developer From India</code></h3>
 
