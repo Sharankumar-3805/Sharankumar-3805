@@ -2,12 +2,12 @@
 <h3 align="center"><code>A Passionate Software Developer From India</code></h3>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sharankumar-3805/&title=Visitors&color=0e75b6&style=flat-square" alt="visitor badge" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sharankumar-3805/&title=Visited&nbsp;To&nbsp;Your&nbsp;Profile&color=#f9cec5&?style=for-the-badge" alt="visitor badge" />
 </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharankumar-3805&label=Profile%20views&color=0e75b6&style=flat" alt="sharankumar-3805" /> </p>
+
 
 - 🌱 I’m currently learning **Microsoft .Net Framewrok**
 
