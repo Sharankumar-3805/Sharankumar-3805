@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Microsoft .Net Framewrok**
+- 🌟 Proficient in crafting end-to-end solutions with **Dot Net Fullstack Development**, seamlessly integrating **front-end**, **back-end**, and **database** technologies.
 
 - 📫 How to reach me **psharan821@gmail.com**
 
