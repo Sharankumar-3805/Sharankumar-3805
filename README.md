@@ -15,7 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sharankumarp2310" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sharankumarp2310" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
+</a>
+
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sharankumar-patil-91b4601b4" height="30" width="40" /></a>
 </p>
 
