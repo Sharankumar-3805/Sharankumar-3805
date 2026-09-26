@@ -28,6 +28,23 @@
 * 📫 Reach me at **[psharan821@gmail.com](mailto:psharan821@gmail.com)**
 
 ---
+## 💼 Experience
+
+Software Developer | .NET Full-Stack Developer
+1.6+ Years of Professional Experience
+
+Developed and maintained web applications using C#, .NET, ASP.NET Core, MVC, Web API, and Entity Framework Core.
+Designed and optimized RESTful APIs and integrated backend services with modern frontend applications.
+Worked with SQL Server for database design, queries, stored procedures, and performance optimization.
+Implemented authentication, authorization, role-based access control, and secure application workflows.
+Followed clean coding practices, OOP principles, SOLID principles, and reusable architecture patterns.
+Worked with Git, GitHub, Docker, CI/CD, and cloud technologies as part of application development and deployment.
+Troubleshot application issues, analyzed logs, fixed bugs, and improved application reliability and performance.
+Continuously exploring AWS, Kubernetes, DevOps, and Generative AI to build scalable and intelligent applications.
+
+Core Focus: .NET • C# • ASP.NET Core • Web API • SQL Server • Entity Framework Core • REST APIs • Docker • AWS • DevOps • GenAI
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -132,44 +149,10 @@ An employee management application implementing CRUD operations using ADO.NET an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sharankumar-3805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180"
-    alt="Sharankumar's GitHub Stats"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharankumar-3805&layout=compact&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sharankumar-3805&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharankumar-3805&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharankumar-3805/sharankumar-3805/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -211,12 +194,8 @@ An employee management application implementing CRUD operations using ADO.NET an
 
 ---
 
-## 💡 Developer Quote
+## 💡 Developer Philosophy
 
-<p align="center">
-  <i>"Build. Learn. Solve. Improve. Repeat."</i>
-</p>
+<p align="center"> <i>"Write code that solves today's problems and builds the foundation for tomorrow."</i> </p>
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
